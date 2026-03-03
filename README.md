@@ -32,8 +32,8 @@ HeartMuLa is a family of open sourced music foundation models including:
 Below shows the experiment result of our oss-3B version compared with other baselines.
 <p align="center">
     <picture>
-        <source srcset="./assets/exp.png" media="(prefers-color-scheme: dark)">
-        <img src="./assets/exp.png" width="90%">
+        <source srcset="./assets/exp-new.png" media="(prefers-color-scheme: dark)">
+        <img src="./assets/exp-new.png" width="90%">
     </picture>
     
 </p>
